@@ -1,5 +1,3 @@
-message = "hello world"
-
-message = len(message)
+message = "hello world from windows"
 
 print(message)
