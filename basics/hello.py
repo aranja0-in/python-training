@@ -1,3 +1,3 @@
-message = "hello world from windows"
+message = "hello world from Ubuntu"
 
 print(message)
