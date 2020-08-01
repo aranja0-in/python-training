@@ -1,3 +1,3 @@
 sum = lambda x, y : x + y
 
-print(sum(20, 23))
+print(sum(20, 29))
