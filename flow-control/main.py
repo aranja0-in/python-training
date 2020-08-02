@@ -12,5 +12,11 @@
 #     print(x)
 
 
-for x in range(4, 10, 2):
+# for x in range(4, 10, 2):
+#     print(x)
+
+# for x in range (-6, 2):
+#     print(x)
+
+for x in range(0, -6, -2):
     print(x)
