@@ -57,3 +57,5 @@ def sum(*args):
     for i in args:
         total += i
     return total
+
+print(sum(1, 2, 3, 4))
